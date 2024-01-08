@@ -1,5 +1,5 @@
 # TRiG
-Redrecting the implementation of CVPR2022 paper: Transform-Retrieve-Generate: Natural Language-Centric Outside-Knowledge Visual Question Answering **[web]([https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Transform-Retrieve-Generate_Natural_Language-Centric_Outside-Knowledge_Visual_Question_Answering_CVPR_2022_paper.pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Gao_Transform-Retrieve-Generate_Natural_Language-Centric_Outside-Knowledge_Visual_Question_Answering_CVPR_2022_paper.html))**
+Redrecting the implementation of CVPR2022 paper: Transform-Retrieve-Generate: Natural Language-Centric Outside-Knowledge Visual Question Answering **[web](https://openaccess.thecvf.com/content/CVPR2022/html/Gao_Transform-Retrieve-Generate_Natural_Language-Centric_Outside-Knowledge_Visual_Question_Answering_CVPR_2022_paper.html)**
 .
 
 ## Link to TRiG implementation
